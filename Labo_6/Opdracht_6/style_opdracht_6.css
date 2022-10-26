@@ -1,0 +1,8 @@
+.checklist li{
+    list-style-image: url("images/checkbox-unchecked-svgrepo-com.svg");
+    list-style-position: outside;
+    font-size: xx-large;
+}
+.checklist .checked{
+list-style-image: url("images/checkbox-checked-svgrepo-com.svg");
+}

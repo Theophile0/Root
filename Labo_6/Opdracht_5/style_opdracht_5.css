@@ -3,6 +3,5 @@ a{
     background-repeat: no-repeat;
     background-position: left;
     padding-left: 25px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    background-size: contain;
 }

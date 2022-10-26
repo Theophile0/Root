@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3652f571-b4a2-4c03-9c83-94f964a533af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_4/opdracht_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_4/style_opdracht_4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_5/opdracht_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_5/style_opdracht_5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_6/images/checkbox-checked-svgrepo-com.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_6/images/checkbox-unchecked-svgrepo-com.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_6/opdracht_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_6/style_opdracht_6.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_6/Opdracht_5/style_opdracht_5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_6/Opdracht_5/style_opdracht_5.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +39,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/27058/Documents/VIVES/Kapot/Web development/Root&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/27058/Documents/VIVES/Kapot/Web development/Root",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\theop\OneDrive\Documenten\VIVES\Web development\Root\Labo_4" />
@@ -69,7 +71,8 @@
       <workItem from="1665559981287" duration="7283000" />
       <workItem from="1665600755778" duration="4475000" />
       <workItem from="1666165626245" duration="4197000" />
-      <workItem from="1666628232710" duration="15841000" />
+      <workItem from="1666628232710" duration="16114000" />
+      <workItem from="1666799763013" duration="1207000" />
     </task>
     <servers />
   </component>
@@ -86,5 +89,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
