@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3652f571-b4a2-4c03-9c83-94f964a533af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_1/opdracht_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_6/Opdracht_1/opdracht_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/opdracht_6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_6/styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/opdracht_6/styles/stijl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/opdracht_7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -69,7 +67,7 @@
       <workItem from="1665559981287" duration="7283000" />
       <workItem from="1665600755778" duration="4475000" />
       <workItem from="1666165626245" duration="4197000" />
-      <workItem from="1666628232710" duration="9389000" />
+      <workItem from="1666628232710" duration="11150000" />
     </task>
     <servers />
   </component>
