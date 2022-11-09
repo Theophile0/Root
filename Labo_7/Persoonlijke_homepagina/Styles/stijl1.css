@@ -1,0 +1,26 @@
+body{
+    width: 1200px;
+    margin: 0 auto;
+    font-family: Arial;
+    background-image: url("../images/peren_background.jpg");
+
+}
+.theo{
+    width:152px;
+    height:204px;
+    align-content: center;
+}
+h1{
+    background-color: red;
+    color: blue;
+    padding: 30px;
+}
+article > header{
+    background-color: white;
+}
+article > ul{
+    background-color: red;
+}
+ul > li{
+    background-color: yellow;
+}
