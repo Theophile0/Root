@@ -1,7 +1,37 @@
 body{
     width: 1200px;
     margin: 0 auto;
+    font-family: Arial;
 }
-header{
+section > header{
     background-image: url("images/header.jpg");
+    color: white;
+    height: 100px;
+    font-size: 30px;
+}
+section > nav{
+    background-color: #2B2D42;
+    height:30px;
+    padding: 5px;
+}
+nav > a{
+    color: lawngreen;
+}
+section > article{
+    background-color: lightgrey;
+    margin: 5px auto 5px auto;
+}
+article > header{
+    height: 50px;
+    padding:5px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    color: slategray;
+    text-decoration-line: underline;
+}
+article > p{
+    padding-left: 5px;
+}
+article > footer{
+    padding: 5px;
 }
