@@ -1,0 +1,7 @@
+body{
+    width: 1200px;
+    margin: 0 auto;
+}
+header{
+    background-image: url("images/header.jpg");
+}
