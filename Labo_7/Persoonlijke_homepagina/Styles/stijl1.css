@@ -2,7 +2,7 @@ body{
     width: 1200px;
     margin: 0 auto;
     font-family: Arial;
-    background-image: url("../images/peren_background.jpg");
+    background-image: url("../images/lucht_background.jpg");
 
 }
 .theo{
@@ -11,16 +11,75 @@ body{
     align-content: center;
 }
 h1{
-    background-color: red;
+    background-color: black;
     color: blue;
     padding: 30px;
+    width: 1200px;
 }
+h3{
+    font: bold;
+}
+article{
+    padding: 30px;
+    background-color: darkgrey;
+    margin: 30px;
+}
+li{
+    list-style:none;
+}
+#hobbies{
+    height: 300px;
+}
+.chiro {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+    float: left;
+    margin-right: fill;
+    width: 500px;
+    background-color: darkgrey;
+    padding: 10px;
+}
+.rugby{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+    float: right;
+    margin-right: fill;
+    width: 500px;
+    background-color: darkgrey;
+    padding: 10px;
+}
+
+.cycling{
+    float:none;
+    margin-top: 60px;
+}
+#chiro{
+    float:left;
+    width:90px;
+    height:90px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+#rugby{
+    float: bottom;
+    float:left;
+    width:90px;
+    height:90px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
 article > header{
-    background-color: white;
+    background-color: blue;
 }
 article > ul{
-    background-color: red;
+    background-color: darkgrey;
 }
 ul > li{
-    background-color: yellow;
+    background-color: darkgrey;
 }
+
