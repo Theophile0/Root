@@ -2,57 +2,74 @@ body{
     width: 1200px;
     margin: 0 auto;
     font-family: Arial;
-    background-image: url("../images/lucht_background.jpg");
-
+    background-color: turquoise;
+    color: white;
 }
-.theo{
-    width:152px;
-    height:204px;
-    align-content: center;
+#top{
+    margin:30px;
+    border-radius: 10px;
+}
+header h2{
+    display: inline-block;
+}
+header{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    height: max-content;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+a{
+    color: white;
+}
+a:hover{
+    font-weight: bold;
+    font-size:15px;
 }
 h1{
-    background-color: black;
-    color: blue;
+    background-image: url("../images/peren_background.jpg");
+    color: black;
     padding: 30px;
-    width: 1200px;
-}
-h3{
-    font: bold;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 article{
     padding: 30px;
-    background-color: darkgrey;
+    background-color: saddlebrown;
     margin: 30px;
+    height: max-content;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 li{
     list-style:none;
 }
+
 #hobbies{
-    height: 300px;
+    height: 340px;
 }
-.chiro {
+.box{
     border-style: solid;
-    border-color: black;
+    border-color: white;
     border-width: 1px;
     border-radius: 10px;
     float: left;
-    margin-right: fill;
-    width: 500px;
-    background-color: darkgrey;
+    width: 800px;
+    background-color: saddlebrown;
     padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
-.rugby{
-    border-style: solid;
-    border-color: black;
-    border-width: 1px;
-    border-radius: 10px;
-    float: right;
-    margin-right: fill;
-    width: 500px;
-    background-color: darkgrey;
-    padding: 10px;
+.eronder{
+    margin-left: 148px;
 }
-
+#hobbies > header{
+    margin-right: 33px;
+}
 .cycling{
     float:none;
     margin-top: 60px;
@@ -65,21 +82,29 @@ li{
     margin-right: 10px;
 }
 #rugby{
-    float: bottom;
     float:left;
-    width:90px;
-    height:90px;
+    width:130px;
+    height:74px;
     border-radius: 10px;
     margin-right: 10px;
 }
-
+ul.rugby li p{
+    padding-top: 20px;
+}
 article > header{
-    background-color: blue;
+        background-color: #753110;
 }
 article > ul{
-    background-color: darkgrey;
+    background-color: saddlebrown;
 }
 ul > li{
-    background-color: darkgrey;
+    background-color: saddlebrown;
 }
+#ambetant{
+    margin-left: 28px;
+}
+#vanalles{
+    height: 1000px;
+}
+
 
