@@ -1,5 +1,5 @@
 body{
-    font-family: Verdana;
+    font-family: Helvetica;
     font-size: 1.2em;
     display:block;
     margin:auto;
@@ -32,6 +32,9 @@ section{
     background-repeat: no-repeat;
     line-height: 1.5;
 }
+header  p{
+    text-align: center;
+}
 h1, h2{
     color: #007e7e;
 }
@@ -47,4 +50,9 @@ h2{
 footer {
     clear:both;
     font-size: 50%;
+    text-align: center;
+}
+.specials a:hover{
+    background-color: brown;
+    color: white;
 }
