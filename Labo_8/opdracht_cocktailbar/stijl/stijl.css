@@ -1,0 +1,50 @@
+body{
+    font-family: Verdana;
+    font-size: 1.2em;
+    display:block;
+    margin:auto;
+    width:95%;
+}
+section{
+    display:inline-block;
+    float:left;
+    width: 70%;
+}
+.specials{
+    display:inline-block;
+    flat:right;
+    width:25%;
+    border:1px #a7cece solid;
+    padding:10px;
+    text-align: center;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+    margin-left: 20px;
+}
+#guarantee{
+    margin:30px;
+    padding:20px 40px;
+    color:#444444;
+    background-color: #a7cece;
+    border:1px white dashed;
+    background-image: url("../images/background.gif");
+    background-size: 60px;
+    background-repeat: no-repeat;
+    line-height: 1.5;
+}
+h1, h2{
+    color: #007e7e;
+}
+.specials h1, .specials h2{
+    color:red;
+}
+h1{
+    font-size: 150%;
+}
+h2{
+    font-size: 130%;
+}
+footer {
+    clear:both;
+    font-size: 50%;
+}

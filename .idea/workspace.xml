@@ -21,6 +21,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5ce10d80-428f-4080-ab14-3c546821539e" />
+        <option name="url" value="https://github.com/Theophile0/Root.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,7 +47,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/theop/OneDrive/Documenten/VIVES/Web development/Root&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/theop/OneDrive/Documenten/VIVES/Web development/Root/Labo_8/Opdracht_Lorem_Ipsum&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -51,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\theop\OneDrive\Documenten\VIVES\Web development\Root\Labo_8\Opdracht_Lorem_Ipsum" />
       <recent name="C:\Users\theop\OneDrive\Documenten\VIVES\Web development\Root\Labo_4" />
     </key>
   </component>
@@ -74,7 +83,10 @@
       <workItem from="1668086691475" duration="16521000" />
       <workItem from="1668245241658" duration="12976000" />
       <workItem from="1668689857347" duration="1410000" />
-      <workItem from="1668876173801" duration="4103000" />
+      <workItem from="1668876173801" duration="4619000" />
+      <workItem from="1669190892530" duration="5047000" />
+      <workItem from="1669222147948" duration="1595000" />
+      <workItem from="1669300328556" duration="4598000" />
     </task>
     <servers />
   </component>
