@@ -1,0 +1,15 @@
+body{
+    margin:20px 10% 0% 10%;
+}
+img{
+    float: right;
+    margin:5px;
+}
+article:nth-child(odd) > p img{
+    float: left;
+}
+article{
+    border: 1px black solid;
+    margin: 10px;
+    height: 260px;
+}

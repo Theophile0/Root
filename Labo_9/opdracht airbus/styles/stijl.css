@@ -1,0 +1,110 @@
+body{
+    width:960px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin:auto;
+    padding: 4px;
+    background-image: url("../fotos/pagebackground.png");
+    background-repeat: repeat-y;
+    background-position: center;
+    margin-top: 0px;
+}
+body > header{
+    height:200px;
+    background-image: url("../fotos/bgsky3.jpg");
+    color:darkblue;
+}
+header > p:nth-child(2){
+    font-size: 240%;
+    font-weight: bold;
+}
+header > p:nth-child(1){
+    font-size: 300%;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: 0px;
+}
+.vliegtuig{
+    float: right;
+    position: absolute;
+    bottom: 60px;
+    right: 300px;
+    top:70px;
+    left:auto;
+}
+aside{
+    float:right;
+    width: 239px;
+    background-color: #dddddd;
+    border: 1px #999999 solid;
+    color: #666666;
+    font-size: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h3{
+    background-color: blue;
+    color:white;
+}
+section{
+    width:700px;
+}
+article{
+    color:black;
+    background-color: white;
+    text-align: left;
+    padding:20px;
+    padding-right: 30px;
+}
+span{
+    color:blue;
+    font-weight: bold;
+    font-style: italic;
+}
+.logo{
+    float:left;
+    padding:20px;
+    margin-bottom: 50px;
+    margin-top: 27px;
+}
+section section{
+    background-color: #999999;
+}
+.foto{
+    display: inline-block;
+    margin: 10px;
+    border: 1px black dashed;
+    height: 200px;
+}
+.foto:nth-child(3n+0){
+    margin-right: 20px;
+}
+.foto:nth-child(3n-2){
+    margin-left: 20px;
+}
+.foto img{
+    border: 10px white solid;
+}
+.bottom article{
+    display: inline-block;
+    background-color: #666666;
+    color: white;
+}
+.bottom nav{
+    display: inline-block;
+}
+.bottom{
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: red;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
