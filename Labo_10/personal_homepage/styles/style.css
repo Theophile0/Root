@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin:auto;
+    background-color: #8DD8DB;
+    width:95%;
+}
+li{
+    list-style: none;
+}
+#titel{
+    background-image: url("../images/peren_background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin:30px;
+}
+.omhulsel{
+    background-color: #BF3604;
+    border: solid 1px #D97904;
+}
+
+.card{
+    background-color: #D97904;
+    margin: 10px;
+}
+hobbies{
+    position: center;
+}
+h2{
+    display: block;
+    position: center;
+}

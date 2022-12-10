@@ -1,0 +1,15 @@
+div.row div{
+    padding: 5px;
+}
+div.row div div{
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin:5px;
+    height:70px;
+}
+div.row div:nth-child(2) div{
+    background-color: darkgrey;
+}
+body{
+    text-align: center;
+}
